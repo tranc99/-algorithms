@@ -2,7 +2,7 @@ function binarySearch(list, target) {
   var max = list.length - 1;
   var min = 0;
 
-  // change made on prod!
+  // we don't want to make changes on prod!
   console.log('compute guess');
   var guess = (min + max) / 2;
   console.log('initial guess is ' + guess);
