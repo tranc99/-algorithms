@@ -2,7 +2,7 @@ function binarySearch(list, target) {
   var max = list.length - 1;
   var min = 0;
 
-  // change made on prod, that's fun!
+  // we don't want to make changes on production!
   console.log('compute guess');
   // hey let's do it again!
   var ran = min + 4;
