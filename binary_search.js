@@ -2,8 +2,10 @@ function binarySearch(list, target) {
   var max = list.length - 1;
   var min = 0;
 
-  // change made on prod!
+  // change made on prod, that's fun!
   console.log('compute guess');
+  // hey let's do it again!
+  var ran = min + 4;
   var guess = (min + max) / 2;
   console.log('initial guess is ' + guess);
   guess = Number.parseInt(guess);
