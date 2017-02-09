@@ -9,7 +9,7 @@ Implementations of common algorithms in JavaScript and Ruby.
 
 * Binary Search
 * Merge Sort
-
+* Linear Search
 ### changes
 
 * removed the tests
