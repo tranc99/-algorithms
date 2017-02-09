@@ -7,6 +7,7 @@ var linearSearch = function(list, target) {
     }
 
   }
+  console.log('target not found! ', target);
   return -1;
 }
 
