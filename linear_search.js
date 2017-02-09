@@ -11,5 +11,5 @@ var linearSearch = function(list, target) {
 }
 
 module.exports = {
-  linearSearch: linearSearch
+  search: linearSearch
 }
